@@ -8,7 +8,7 @@ Click [here](https://young-sands-78297.herokuapp.com/) to check out the deployed
 ![Screenshot](./assets/PWA%20Text%20Editor.gif)
 
 ## Usage
-Users can access the text editor directly from the deployed [application]. Additionally, users have the option to install the app to their local device when clicking on the "Install" button, as shown here:
+Users can access the text editor directly from the deployed [application](https://young-sands-78297.herokuapp.com/). Additionally, users have the option to install the app to their local device when clicking on the "Install" button, as shown here:
 ![Screenshot](./assets/PWA%20Installation.gif)
 
 
